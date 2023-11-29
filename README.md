@@ -7,7 +7,7 @@ If you like to see a demo, I published a video presenting of this example on my 
 ## Requirments to run this example project
 
 - You need to have an AWS account and have to setup the AWS CLI. [Here is a Guide](https://sst.dev/chapters/create-an-aws-account.html) on how to create an AWS account, setting up the IAM user and configuring the AWS CLI.
-- Install [pnpm](https://) as the package manager
+- Install [pnpm](https://pnpm.io/installation) as the package manager
 
 ## How to use this example
 
