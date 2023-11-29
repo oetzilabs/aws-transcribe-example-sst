@@ -19,16 +19,16 @@ Here are the commands to run this project:
 pnpm sst dev
 ```
 
-- Deploy to production
-
-```
-pnpm sst deploy --stage production
-```
-
 - To run the Frontend Package
 
 ```bash
 cd packages/frontend && pnpm dev
+```
+
+- Deploy to production
+
+```bash
+pnpm sst deploy --stage production
 ```
 
 ---
