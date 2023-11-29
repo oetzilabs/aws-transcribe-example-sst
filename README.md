@@ -2,7 +2,7 @@
 
 Hi, my name is Özgür and I have made this example repository to showcase a small part of a project I made for myself.
 
-If you like to see a demo, I published a video presenting of this example on my Socials (~~[LinkedIn](https://linkedin.com/)~~ (will be added soon), [YouTube](https://youtu.be/9pPliORZnjI)).
+If you like to see a demo, I published a video presenting of this example on my Socials ([LinkedIn](https://www.linkedin.com/posts/oezguer-isbert_aws-sst-lambda-activity-7135613404123185154-cI9B), [YouTube](https://youtu.be/9pPliORZnjI)).
 
 ## Requirments to run this example project
 
@@ -34,3 +34,7 @@ pnpm sst deploy --stage production
 ---
 
 If you have any questions regarding this project, you can ask me on my socials: [LinkedIn](https://www.linkedin.com/in/oezguer-isbert), [X](https://twitter.com/oezguerisbert)
+
+---
+
+If there is anything I can improve, please let me know and create an issue 😊
