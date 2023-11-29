@@ -2,7 +2,7 @@
 
 Hi, my name is Özgür and I have made this example repository to showcase a small part of a project I made for myself.
 
-If you like to see a demo, I published a video presenting of this example on my Socials ([LinkedIn](https://linkedin.com/), [YouTube](https://youtube.com/)).
+If you like to see a demo, I published a video presenting of this example on my Socials ([LinkedIn](https://linkedin.com/), [YouTube](https://youtu.be/9pPliORZnjI)).
 
 ## Requirments to run this example project
 
